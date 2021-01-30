@@ -8,10 +8,16 @@ function App() {
         Science field. I have 3 years of exprience in building Websites using technologies like HTML5, CSS3, JavaScript,
         React and Redux. I am looking for Front End Developer roles. 
       </p>
-      <img src="https://s3-us-west-1.amazonaws.com/files.klar.works/Krishna/profile.jpeg"></img>
-      <img src="https://s3-us-west-1.amazonaws.com/files.klar.works/Krishna/cake.JPG"></img>
-      <img src="https://s3-us-west-1.amazonaws.com/files.klar.works/Krishna/birthday.JPG"></img>
+      <img width="320" height="240" src="https://s3-us-west-1.amazonaws.com/files.klar.works/Krishna/profile.jpeg" alt="profile"></img>
+      <hr width="500"></hr>
+      <img width="320" height="240" src="https://s3-us-west-1.amazonaws.com/files.klar.works/Krishna/cake.JPG" alt="cake"></img>
+      <hr width="500"></hr>
+      <img width="320" height="240" src="https://s3-us-west-1.amazonaws.com/files.klar.works/Krishna/birthday.JPG" alt="birthday"></img>
+      <hr width="500"></hr>
       
+      <video width="500" height="300" autoplay controls>
+            <source src="https://s3-us-west-1.amazonaws.com/files.klar.works/video/simple.MP4" type="video/mp4"/>
+      </video>
     </div>
   );
 }
